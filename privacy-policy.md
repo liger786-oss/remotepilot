@@ -61,4 +61,3 @@ If you have questions about this privacy policy, contact us at:
 
 ---
 
-*This privacy policy is also available at: [GitHub Pages URL]*
